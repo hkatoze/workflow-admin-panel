@@ -1,6 +1,10 @@
-📱 **Workflow Admin Panel**  
+📱 **Workflow Admin Panel** 
+
+![Aperçu](https://i.ibb.co/TcyXvK7/a.png)
 
 ![Aperçu](https://i.ibb.co/P6HDgXZ/w.png)
+
+![Aperçu](https://i.ibb.co/GJSx4Dv/d.png)
 
 ![Aperçu](https://i.ibb.co/SBQ97pv/e.png)
 
