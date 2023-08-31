@@ -1,6 +1,5 @@
 📱 **Workflow Admin Panel**  
 
-![Aperçu](lien-vers-la-vidéo-de-présentation.mov)
 
 📁 **Description**  
 
