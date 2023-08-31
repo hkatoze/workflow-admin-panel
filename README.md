@@ -3,7 +3,7 @@
 
 📁 **Description**  
 
-Le projet "Workflow Admin Panel" complète notre suite d'outils pour la gestion efficace des entreprises connectées à notre API Sage 300 ERP Mobile Workflow. Développé avec soin, ce panneau d'administration simplifie la gestion des informations de connexion et des différentes bases de données essentielles pour garantir le bon fonctionnement de l'API.
+Le projet "Workflow Admin Panel" complète la suite d'outils pour la gestion efficace des entreprises connectées à l'API Sage 300 ERP Mobile Workflow. Développé avec soin, ce panneau d'administration simplifie la gestion des informations de connexion et des différentes bases de données essentielles pour garantir le bon fonctionnement de l'API.
 
 🧑🏻‍💼 **Fonctionnalités Clés**  
 
